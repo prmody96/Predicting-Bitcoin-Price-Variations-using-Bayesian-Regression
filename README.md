@@ -1,5 +1,6 @@
 # Predicting-Bitcoin-Price-Variations-using-Bayesian-Regression
 
+# Inroduction :
 Reference paper : http://arxiv.org/pdf/1410.1231.pdf
 
 In this project, predicted the price variations of bitcoin, a virtual cryptographic currency.
